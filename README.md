@@ -26,5 +26,7 @@ I’m a huge tech enthusiast who loves coding and database management! I enjoy t
 
 
 ### 📫 Reach Me At:
-* **LinkedIn:** [Your Name](INSERT_LINK_HERE)
-* **Email:** [juandelacruz@gmail.com](mailto:juandelacruz@gmail.com)
+* **LinkedIn:** [Jun Angelo Uri](www.linkedin.com/in/
+jun-angelo-uri-6347223b1
+)
+* **Email:** [urijunangelo@gmail.com](mailto:urijunangelo@gmail.com)
